@@ -6,3 +6,5 @@ highlighter: rouge
 baseUrl: https://formio.github.io/formio.js
 exclude: [package.json, package-lock.json, bower.json, circle.yml, karma.conf.js, gulpfile.js, node_modules, bower_components, src, test, gulp, lib, config]
 
+
+theme: jekyll-theme-cayman
